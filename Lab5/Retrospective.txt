@@ -1,0 +1,3 @@
+1. I think the general overview of implementing an MVC went well
+2. Struggled with figuring out where to put my view folders. Googled it
+3. Not much I would change.
